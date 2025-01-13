@@ -1,4 +1,4 @@
-package structural.adapter;
+package structural.brigde;
 
 /**
  * Bridge design pattern decouple an abstraction from its implementation
