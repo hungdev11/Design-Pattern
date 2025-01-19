@@ -1,4 +1,4 @@
-package behavioral;
+package behavioral.state;
 
 /**
  * State pattern lets object alter its behavior when its internal states changes
