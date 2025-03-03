@@ -1,0 +1,3 @@
+What: create a family of objects that related, not indicate any specific class
+When: want to create a family of objects, group of objects can work compatibly, hide logic create objects
+How: Abstract Factory, concrete factories, abstract products, concrete products
