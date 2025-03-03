@@ -1,2 +1,3 @@
 What: Singleton is a creational design pattern that help create a unique instance and provide global access point to that instance
 When: Create a obj to use throughout program like Logging, Connection of database,...
+How: private static instance, private constructor -> avoid directly access, static method to get the instance
