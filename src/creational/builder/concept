@@ -1,0 +1,4 @@
+What: create complex obj step by step, avoid confused with various constructors and order of params in constructor, visualizing steps
+When: to many constructors (more than 4), avoid confuse order of params, visualize steps
+How: Product, nested Builder class, want immutable -> make final, want required fields add in constructor or check in build(),
+    can create a Abstract builder if need have similar kind of Product, return product in build()
