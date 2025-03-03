@@ -1,0 +1,3 @@
+What: Factory method define an interface for create obj but which class instance is depending on subclasses, super class just define how to create obj
+When: Hide obj create logic, avoid create obj by new keyword, extend without modify class, but factory does
+How: Super class (Interface/ abstract class), subclasses, factory
