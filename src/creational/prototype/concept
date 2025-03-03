@@ -1,0 +1,3 @@
+What: reuse/copy existed obj instead of create new one, faster than create with new keyword, JVM copy value in memory
+When: reuse/copy similar obj, initialization is expensive, keeping states of origin obj
+How: implements Cloneable interface and override clone(), notice nested obj (want deep copy or not)
