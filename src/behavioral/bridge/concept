@@ -1,0 +1,3 @@
+What: pattern separate implementation and abstraction, allow to evolve independently
+When: loose coupling between implementation and abstraction, avoid deep hierarchy, frequently change
+How: abstraction have implementation
