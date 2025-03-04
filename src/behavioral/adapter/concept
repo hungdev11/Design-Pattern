@@ -1,0 +1,3 @@
+What: pattern that provide an adapter that help incompatible interfaces can work with each other
+When: your code is legacy and want to use a function outside but don't want modify your code
+How: Adapter implement Target and hold Adaptee instance
