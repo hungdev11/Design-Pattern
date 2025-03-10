@@ -1,0 +1,3 @@
+What: create a structure that group of object or individual object can work similarly
+When: have a tree hierarchy
+How: Base class, composite and leaf extend base class
