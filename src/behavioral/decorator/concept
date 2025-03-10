@@ -1,0 +1,3 @@
+What: extend existed behavior of an obj by wrapping that obj without modified original structure
+When: add responsibilities dynamically at runtime
+How: base class, concrete component, decorator, concrete decorator
