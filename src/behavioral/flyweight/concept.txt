@@ -1,0 +1,3 @@
+What: reuse similar obj if it existed otherwise create one and store it
+When: when creation of obj is expensive
+How: HashMap, Flyweight interface, concrete flyweight, flyweight factory
